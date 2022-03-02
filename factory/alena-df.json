@@ -1,0 +1,9 @@
+{
+	"name": "alena-df",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f9049269-fe97-4d26-95c8-89dcdbc64889",
+		"tenantId": "649671d2-1c7f-40dc-92e6-4a38f2053f34"
+	}
+}
